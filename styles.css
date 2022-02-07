@@ -1,0 +1,11 @@
+h1{
+  font-family: Arial;
+  text-align: center;
+  background-color: darkcyan;
+  color: white;
+  margin-bottom:30;
+  padding:10;
+}
+#root{
+  text-align: center
+}
